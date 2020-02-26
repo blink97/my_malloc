@@ -1,0 +1,25 @@
+# Vim files
+*~
+.*~
+*.swp
+.*.swp
+
+# Logs
+*.log
+
+# Object files
+*.o
+*.d
+*.so
+*.ko
+*.obj
+*.elf
+
+# Libs
+*.lib
+*.a
+*.la
+*.lo
+
+# Default Binaries
+*.out

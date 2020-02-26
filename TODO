@@ -1,0 +1,23 @@
+malloc[OK]
+-first fit[OK]
+-Binary [NOT OK]
+free[OK]
+Calloc[OK]
+Realloc[OK]
+
+Segfault manager : 
+  factor[pass]
+  cat[pass]
+  ip a[pass]
+
+  ls[pass]
+  ls -la[pass]
+  tar[pass]
+  find[pass]
+  tree[pass]
+  od[pass]
+  git status[pass]
+  less[pass]
+  clang[pass]
+
+Testsuite[OK]
